@@ -3,6 +3,9 @@ SparkFun ATECCX08A Arduino Library
 
 ![SparkFun Cryptographic Breakout](https://cdn.sparkfun.com/assets/parts/1/4/1/6/9/15573-SparkFun_Cryptographic_Co-Processor_Breakout_-_ATECC508A__Qwiic_-01.jpg)
 
+This Library was modified to be able to work with ATECC608B-TNGLTS (Trust and Go). Functions were added to extract Certificates from the ATECC608B-TNGTLS located in slots 10,11,12. 
+
+
 The SparkFun Cryptographic Co-processor Breakout ATECC508A (Qwiic) takes all the great features of the Microchip ATECC508A cryptographic authentication device and adds two Qwiic ports for plug and play functionality. The ATECC508A chip is capable of many cryptographic processes, including, but not limited to:
 
 * An asymmetric key/signature solution based upon Elliptic Curve Cryptography.
