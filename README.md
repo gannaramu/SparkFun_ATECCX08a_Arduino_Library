@@ -1,4 +1,4 @@
-SparkFun ATECCX08A Arduino Library
+SparkFun ATECC~~X08A~~608B-TNGTLS Arduino Library
 ===========================================================
 
 ![SparkFun Cryptographic Breakout](https://cdn.sparkfun.com/assets/parts/1/4/1/6/9/15573-SparkFun_Cryptographic_Co-Processor_Breakout_-_ATECC508A__Qwiic_-01.jpg)
